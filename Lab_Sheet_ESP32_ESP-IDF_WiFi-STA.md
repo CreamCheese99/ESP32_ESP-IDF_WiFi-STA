@@ -183,3 +183,4 @@ void app_main(void)
 #define EXAMPLE_ESP_WIFI_PASS      "___Wifi_password_"
 
 ```
+![image](https://github.com/user-attachments/assets/6b8e466d-09f3-465f-8de5-2b408b5a86c1)
